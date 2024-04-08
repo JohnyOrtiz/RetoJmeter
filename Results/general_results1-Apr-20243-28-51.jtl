@@ -1,0 +1,141 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1712003331450,729,URL-441,200,OK,Smoke test 1-1,text,true,,5103,474,1,1,https://opencart.abstracta.us/,729,0,472
+1712003332180,207,Register-479,200,OK,Smoke test 1-1,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,206,0,0
+1712003332387,826,Continue-507,200,OK,Smoke test 1-1,text,true,,4690,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,169,0,0
+1712003332387,169,Continue-507-0,302,Found,Smoke test 1-1,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,169,0,0
+1712003332557,656,Continue-507-1,200,OK,Smoke test 1-1,text,true,,4133,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,656,0,450
+1712003333214,385,Continue 1-512,200,OK,Smoke test 1-1,text,true,,7201,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,385,0,148
+1712003333599,225,Monitors-520,200,OK,Smoke test 1-1,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,225,0,0
+1712003333825,231,Monitors-547,200,OK,Smoke test 1-1,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,231,0,0
+1712003334057,165,Upload File-554,204,No Content,Smoke test 1-1,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003334222,188,Add to cart-560,200,OK,Smoke test 1-1,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,188,0,0
+1712003334410,221,URL-441,200,OK,Smoke test 1-1,text,true,,4860,549,1,1,https://opencart.abstracta.us/,221,0,0
+1712003334632,208,Register-479,200,OK,Smoke test 1-1,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,208,0,0
+1712003334840,377,Continue-507,200,OK,Smoke test 1-1,text,true,,4689,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,169,0,0
+1712003334840,169,Continue-507-0,302,Found,Smoke test 1-1,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,169,0,0
+1712003335010,207,Continue-507-1,200,OK,Smoke test 1-1,text,true,,4132,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,207,0,0
+1712003335217,234,Continue 1-512,200,OK,Smoke test 1-1,text,true,,7200,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,234,0,0
+1712003335451,226,Monitors-520,200,OK,Smoke test 1-1,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,225,0,0
+1712003335677,235,Monitors-547,200,OK,Smoke test 1-1,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,234,0,0
+1712003335913,163,Upload File-554,204,No Content,Smoke test 1-1,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003336076,185,Add to cart-560,200,OK,Smoke test 1-1,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,185,0,0
+1712003391451,684,URL-441,200,OK,Smoke test 1-2,text,true,,5103,474,1,1,https://opencart.abstracta.us/,683,0,468
+1712003392135,208,Register-479,200,OK,Smoke test 1-2,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,207,0,0
+1712003392343,945,Continue-507,200,OK,Smoke test 1-2,text,true,,4690,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,170,0,0
+1712003392343,170,Continue-507-0,302,Found,Smoke test 1-2,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,170,0,0
+1712003392513,775,Continue-507-1,200,OK,Smoke test 1-2,text,true,,4133,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,775,0,572
+1712003393289,387,Continue 1-512,200,OK,Smoke test 1-2,text,true,,7201,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,387,0,148
+1712003393676,225,Monitors-520,200,OK,Smoke test 1-2,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,225,0,0
+1712003393901,233,Monitors-547,200,OK,Smoke test 1-2,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,233,0,0
+1712003394135,163,Upload File-554,204,No Content,Smoke test 1-2,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003394299,179,Add to cart-560,200,OK,Smoke test 1-2,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,179,0,0
+1712003394479,217,URL-441,200,OK,Smoke test 1-2,text,true,,4860,549,1,1,https://opencart.abstracta.us/,217,0,0
+1712003394697,210,Register-479,200,OK,Smoke test 1-2,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,210,0,0
+1712003394907,375,Continue-507,200,OK,Smoke test 1-2,text,true,,4689,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,167,0,0
+1712003394907,167,Continue-507-0,302,Found,Smoke test 1-2,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,167,0,0
+1712003395075,207,Continue-507-1,200,OK,Smoke test 1-2,text,true,,4132,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,207,0,0
+1712003395283,228,Continue 1-512,200,OK,Smoke test 1-2,text,true,,7200,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,228,0,0
+1712003395512,232,Monitors-520,200,OK,Smoke test 1-2,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,232,0,0
+1712003395745,242,Monitors-547,200,OK,Smoke test 1-2,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,242,0,0
+1712003395987,166,Upload File-554,204,No Content,Smoke test 1-2,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003396153,187,Add to cart-560,200,OK,Smoke test 1-2,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,187,0,0
+1712003451450,692,URL-441,200,OK,Smoke test 1-3,text,true,,5103,474,1,1,https://opencart.abstracta.us/,692,0,473
+1712003452143,213,Register-479,200,OK,Smoke test 1-3,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,213,0,0
+1712003452356,817,Continue-507,200,OK,Smoke test 1-3,text,true,,4690,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,167,0,0
+1712003452356,167,Continue-507-0,302,Found,Smoke test 1-3,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,167,0,0
+1712003452524,649,Continue-507-1,200,OK,Smoke test 1-3,text,true,,4133,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,649,0,445
+1712003453174,395,Continue 1-512,200,OK,Smoke test 1-3,text,true,,7201,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,395,0,151
+1712003453570,230,Monitors-520,200,OK,Smoke test 1-3,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,230,0,0
+1712003453800,244,Monitors-547,200,OK,Smoke test 1-3,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,244,0,0
+1712003454044,165,Upload File-554,204,No Content,Smoke test 1-3,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003454209,183,Add to cart-560,200,OK,Smoke test 1-3,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,183,0,0
+1712003454392,219,URL-441,200,OK,Smoke test 1-3,text,true,,4860,549,1,1,https://opencart.abstracta.us/,219,0,0
+1712003454611,208,Register-479,200,OK,Smoke test 1-3,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,208,0,0
+1712003454820,377,Continue-507,200,OK,Smoke test 1-3,text,true,,4689,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,171,0,0
+1712003454820,171,Continue-507-0,302,Found,Smoke test 1-3,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,171,0,0
+1712003454992,205,Continue-507-1,200,OK,Smoke test 1-3,text,true,,4132,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,205,0,0
+1712003455197,238,Continue 1-512,200,OK,Smoke test 1-3,text,true,,7200,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,238,0,0
+1712003455435,225,Monitors-520,200,OK,Smoke test 1-3,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,225,0,0
+1712003455661,242,Monitors-547,200,OK,Smoke test 1-3,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,242,0,0
+1712003455904,167,Upload File-554,204,No Content,Smoke test 1-3,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003456071,184,Add to cart-560,200,OK,Smoke test 1-3,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,184,0,0
+1712003511450,696,URL-441,200,OK,Smoke test 1-4,text,true,,5103,474,1,1,https://opencart.abstracta.us/,696,0,475
+1712003512147,212,Register-479,200,OK,Smoke test 1-4,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,212,0,0
+1712003512359,815,Continue-507,200,OK,Smoke test 1-4,text,true,,4690,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,172,0,0
+1712003512359,172,Continue-507-0,302,Found,Smoke test 1-4,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,172,0,0
+1712003512531,643,Continue-507-1,200,OK,Smoke test 1-4,text,true,,4133,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,643,0,443
+1712003513174,404,Continue 1-512,200,OK,Smoke test 1-4,text,true,,7201,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,404,0,158
+1712003513579,239,Monitors-520,200,OK,Smoke test 1-4,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,239,0,0
+1712003513818,232,Monitors-547,200,OK,Smoke test 1-4,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,232,0,0
+1712003514051,163,Upload File-554,204,No Content,Smoke test 1-4,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003514215,186,Add to cart-560,200,OK,Smoke test 1-4,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,186,0,0
+1712003514402,220,URL-441,200,OK,Smoke test 1-4,text,true,,4860,549,1,1,https://opencart.abstracta.us/,220,0,0
+1712003514622,209,Register-479,200,OK,Smoke test 1-4,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,209,0,0
+1712003514831,385,Continue-507,200,OK,Smoke test 1-4,text,true,,4689,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,170,0,0
+1712003514831,170,Continue-507-0,302,Found,Smoke test 1-4,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,170,0,0
+1712003515001,215,Continue-507-1,200,OK,Smoke test 1-4,text,true,,4132,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,215,0,0
+1712003515217,242,Continue 1-512,200,OK,Smoke test 1-4,text,true,,7200,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,242,0,0
+1712003515459,232,Monitors-520,200,OK,Smoke test 1-4,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,232,0,0
+1712003515691,240,Monitors-547,200,OK,Smoke test 1-4,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,239,0,0
+1712003515931,171,Upload File-554,204,No Content,Smoke test 1-4,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003516102,183,Add to cart-560,200,OK,Smoke test 1-4,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,183,0,0
+1712003571452,1881,URL-441,200,OK,Smoke test 1-5,text,true,,5103,474,1,1,https://opencart.abstracta.us/,1881,0,1636
+1712003573332,227,Register-479,200,OK,Smoke test 1-5,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,227,0,0
+1712003573559,829,Continue-507,200,OK,Smoke test 1-5,text,true,,4718,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,171,0,0
+1712003573559,171,Continue-507-0,302,Found,Smoke test 1-5,text,true,,585,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,171,0,0
+1712003573731,657,Continue-507-1,200,OK,Smoke test 1-5,text,true,,4133,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,657,0,450
+1712003574389,416,Continue 1-512,200,OK,Smoke test 1-5,text,true,,7201,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,416,0,159
+1712003574805,248,Monitors-520,200,OK,Smoke test 1-5,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,247,0,0
+1712003575053,234,Monitors-547,200,OK,Smoke test 1-5,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,234,0,0
+1712003575287,172,Upload File-554,204,No Content,Smoke test 1-5,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003575459,187,Add to cart-560,200,OK,Smoke test 1-5,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,187,0,0
+1712003575647,217,URL-441,200,OK,Smoke test 1-5,text,true,,4860,549,1,1,https://opencart.abstracta.us/,217,0,0
+1712003575864,211,Register-479,200,OK,Smoke test 1-5,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,210,0,0
+1712003576075,375,Continue-507,200,OK,Smoke test 1-5,text,true,,4689,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,167,0,0
+1712003576075,167,Continue-507-0,302,Found,Smoke test 1-5,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,167,0,0
+1712003576242,208,Continue-507-1,200,OK,Smoke test 1-5,text,true,,4132,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,207,0,0
+1712003576450,238,Continue 1-512,200,OK,Smoke test 1-5,text,true,,7200,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,237,0,0
+1712003576689,228,Monitors-520,200,OK,Smoke test 1-5,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,227,0,0
+1712003576917,232,Monitors-547,200,OK,Smoke test 1-5,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,231,0,0
+1712003577149,164,Upload File-554,204,No Content,Smoke test 1-5,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003577313,186,Add to cart-560,200,OK,Smoke test 1-5,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,186,0,0
+1712003631450,1747,URL-441,200,OK,Smoke test 1-6,text,true,,5103,474,1,1,https://opencart.abstracta.us/,1747,0,1525
+1712003633198,214,Register-479,200,OK,Smoke test 1-6,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,214,0,0
+1712003633413,828,Continue-507,200,OK,Smoke test 1-6,text,true,,4690,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,169,0,0
+1712003633413,169,Continue-507-0,302,Found,Smoke test 1-6,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,169,0,0
+1712003633583,658,Continue-507-1,200,OK,Smoke test 1-6,text,true,,4133,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,658,0,452
+1712003634242,384,Continue 1-512,200,OK,Smoke test 1-6,text,true,,7201,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,384,0,148
+1712003634627,230,Monitors-520,200,OK,Smoke test 1-6,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,230,0,0
+1712003634858,237,Monitors-547,200,OK,Smoke test 1-6,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,237,0,0
+1712003635095,162,Upload File-554,204,No Content,Smoke test 1-6,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003635258,203,Add to cart-560,200,OK,Smoke test 1-6,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,203,0,0
+1712003635461,226,URL-441,200,OK,Smoke test 1-6,text,true,,4860,549,1,1,https://opencart.abstracta.us/,226,0,0
+1712003635687,214,Register-479,200,OK,Smoke test 1-6,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,214,0,0
+1712003635901,375,Continue-507,200,OK,Smoke test 1-6,text,true,,4689,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,169,0,0
+1712003635901,169,Continue-507-0,302,Found,Smoke test 1-6,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,169,0,0
+1712003636070,206,Continue-507-1,200,OK,Smoke test 1-6,text,true,,4132,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,206,0,0
+1712003636277,238,Continue 1-512,200,OK,Smoke test 1-6,text,true,,7200,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,238,0,0
+1712003636516,227,Monitors-520,200,OK,Smoke test 1-6,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,227,0,0
+1712003636743,233,Monitors-547,200,OK,Smoke test 1-6,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,233,0,0
+1712003636975,163,Upload File-554,204,No Content,Smoke test 1-6,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003637138,186,Add to cart-560,200,OK,Smoke test 1-6,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,186,0,0
+1712003691448,741,URL-441,200,OK,Smoke test 1-7,text,true,,5103,474,1,1,https://opencart.abstracta.us/,741,0,515
+1712003692191,207,Register-479,200,OK,Smoke test 1-7,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,207,0,0
+1712003692398,819,Continue-507,200,OK,Smoke test 1-7,text,true,,4690,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,169,0,0
+1712003692398,169,Continue-507-0,302,Found,Smoke test 1-7,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,169,0,0
+1712003692567,650,Continue-507-1,200,OK,Smoke test 1-7,text,true,,4133,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,650,0,446
+1712003693218,402,Continue 1-512,200,OK,Smoke test 1-7,text,true,,7201,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,402,0,151
+1712003693620,232,Monitors-520,200,OK,Smoke test 1-7,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,232,0,0
+1712003693853,242,Monitors-547,200,OK,Smoke test 1-7,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,242,0,0
+1712003694096,167,Upload File-554,204,No Content,Smoke test 1-7,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003694263,187,Add to cart-560,200,OK,Smoke test 1-7,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,187,0,0
+1712003694451,216,URL-441,200,OK,Smoke test 1-7,text,true,,4860,549,1,1,https://opencart.abstracta.us/,216,0,0
+1712003694667,205,Register-479,200,OK,Smoke test 1-7,text,true,,5360,758,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister&name=Pepito&lastname=Perez&phone=3160495003&email=pyperez@gmail.com&password=prutest123&confirm=prutest123&subscribe=0&agree=1,205,0,0
+1712003694872,378,Continue-507,200,OK,Smoke test 1-7,text,true,,4689,1256,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,168,0,0
+1712003694872,168,Continue-507-0,302,Found,Smoke test 1-7,text,true,,557,628,1,1,https://opencart.abstracta.us/index.php?route=account%2Faccount,168,0,0
+1712003695040,210,Continue-507-1,200,OK,Smoke test 1-7,text,true,,4132,628,1,1,https://opencart.abstracta.us:443/index.php?route=account/login,209,0,0
+1712003695250,235,Continue 1-512,200,OK,Smoke test 1-7,text,true,,7200,496,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,235,0,0
+1712003695485,228,Monitors-520,200,OK,Smoke test 1-7,text,true,,12437,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,227,0,0
+1712003695713,252,Monitors-547,200,OK,Smoke test 1-7,text,true,,7200,592,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,252,0,0
+1712003695966,174,Upload File-554,204,No Content,Smoke test 1-7,,true,,214,770,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1712003696140,182,Add to cart-560,200,OK,Smoke test 1-7,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,182,0,0
